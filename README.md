@@ -1,23 +1,22 @@
-# Scoop Bucket Template
+# Scoop Bucket for Sysinternals
 
-<!-- Uncomment the following line after replacing placeholders -->
-<!-- [![Tests](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml) -->
+[![Tests](https://github.com/niheaven/scoop-sysinternals/actions/workflows/ci.yml/badge.svg)](https://github.com/niheaven/scoop-sysinternals/actions/workflows/ci.yml) [![Excavator](https://github.com/niheaven/scoop-sysinternals/actions/workflows/excavator.yml/badge.svg)](https://github.com/niheaven/scoop-sysinternals/actions/workflows/excavator.yml) [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
-Template bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
+Sysinternals bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
-How do I install these manifests?
----------------------------------
+The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) to host his advanced system utilities and technical information. Whether you’re an IT Pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot and diagnose your Windows systems and applications.
 
-To add this bucket, run `scoop bucket add <bucketname> https://github.com/<username>/<bucketname>`. To install, do `scoop install <manifest>`.
+## How do I install these manifests?
 
-How do I contribute new manifests?
-----------------------------------
+To add this bucket, run `scoop bucket add sysinternals https://github.com/niheaven/scoop-sysinternals`. To install, do `scoop install <manifest>`.
+
+## How do I contribute new manifests
 
 To make a new manifest contribution, please read the [Contributing Guide](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md).
 
 ----
 
-#### To use this template
+## Copyright and License
 
-- Modify the Readme.md and the bin/auto-pr.ps1 files accordingly.
-- Enable GitHub Actions for this repository.
+- Sysinternals is © Microsoft Corporation with [EULA](https://learn.microsoft.com/en-us/sysinternals/license-terms).
+- Manifests in this repository are © niheaven with [MIT License](./LICENSE).
