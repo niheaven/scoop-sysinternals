@@ -1,5 +1,5 @@
 {
-    "version": "14.11",
+    "version": "14.12",
     "description": "Monitors and reports key system activity via the Windows event log.",
     "homepage": "https://learn.microsoft.com/sysinternals/downloads/sysmon",
     "license": {
