@@ -1,5 +1,5 @@
 {
-    "version": "17.01",
+    "version": "17.02",
     "description": "Find out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more.",
     "homepage": "https://learn.microsoft.com/sysinternals/downloads/process-explorer",
     "license": {
