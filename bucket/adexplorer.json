@@ -1,5 +1,5 @@
 {
-    "version": "1.51",
+    "version": "1.52",
     "description": "An advanced Active Directory (AD) viewer and editor.",
     "homepage": "https://learn.microsoft.com/sysinternals/downloads/adexplorer",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://learn.microsoft.com/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/AdExplorer.zip",
-    "hash": "63c9a57ac7abd64f1fbae0949eebdd8b7132c1a0825c9fce487234aeb6a6f0be",
+    "hash": "56536bff1e9da136a53f68c6f4f1cd51f79be919a27249a193a2bc8fc472e89a",
     "architecture": {
         "64bit": {
             "bin": [
