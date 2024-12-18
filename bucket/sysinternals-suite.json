@@ -64,7 +64,6 @@
                     "CPUSTRES64.exe",
                     "CPUSTRES"
                 ],
-                "ctrl2cap.exe",
                 [
                     "dbgview64.exe",
                     "Dbgview"
@@ -445,7 +444,6 @@
                 "Contig.exe",
                 "Coreinfo.exe",
                 "CPUSTRES.EXE",
-                "ctrl2cap.exe",
                 "Dbgview.exe",
                 "Desktops.exe",
                 "disk2vhd.exe",
