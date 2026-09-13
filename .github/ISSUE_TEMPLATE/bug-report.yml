@@ -1,6 +1,6 @@
 name: 🐛 Bug Report
 description: Open an issue about a bug that needs fixing.
-title: "[BUG]: "
+title: "[Bug]: "
 labels: ["bug"]
 body:
 - type: checkboxes
@@ -59,7 +59,7 @@ body:
     placeholder: |
       PS> scoop --version
       Current Scoop version:
-      8aee6f99 (HEAD -> master, tag: v0.3.0, origin/master) chore(release): Bump to version 0.3.0
+      c60df9cd (HEAD -> develop, origin/develop) docs(changelog): Prepare for version 0.3.1 (#5248)
 
       'extras' bucket:
       ea314b213 (HEAD -> master, origin/master, origin/HEAD) lazygit: Update to version 0.36.0
@@ -78,7 +78,7 @@ body:
 
       last_update            : 2022/11/14 22:05:50
       scoop_repo             : https://github.com/ScoopInstaller/Scoop
-      scoop_branch           : master
+      scoop_branch           : develop
       use_lessmsi            : True
       aria2-enabled          : True
       aria2-warning-enabled  : False

@@ -1,6 +1,6 @@
 # Scoop Bucket for Sysinternals
 
-[![Tests](https://github.com/niheaven/scoop-sysinternals/actions/workflows/ci.yml/badge.svg)](https://github.com/niheaven/scoop-sysinternals/actions/workflows/ci.yml) [![Excavator](https://github.com/niheaven/scoop-sysinternals/actions/workflows/excavator.yml/badge.svg)](https://github.com/niheaven/scoop-sysinternals/actions/workflows/excavator.yml) [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
+[![Tests](https://github.com/ScoopInstaller/Sysinternals/actions/workflows/ci.yml/badge.svg)](https://github.com/ScoopInstaller/Sysinternals/actions/workflows/ci.yml) [![Excavator](https://github.com/ScoopInstaller/Sysinternals/actions/workflows/excavator.yml/badge.svg)](https://github.com/ScoopInstaller/Sysinternals/actions/workflows/excavator.yml) [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
 Sysinternals bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
@@ -8,7 +8,7 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 
 ## How do I install these manifests?
 
-To add this bucket, run `scoop bucket add sysinternals https://github.com/niheaven/scoop-sysinternals`. To install, do `scoop install <manifest>`.
+To add this bucket, run `scoop bucket add sysinternals`. To install, do `scoop install <manifest>`.
 
 ## How do I contribute new manifests
 
@@ -19,4 +19,4 @@ To make a new manifest contribution, please read the [Contributing Guide](https:
 ## Copyright and License
 
 - Sysinternals is © Microsoft Corporation with [EULA](https://learn.microsoft.com/en-us/sysinternals/license-terms).
-- Manifests in this repository are © niheaven with [MIT License](./LICENSE).
+- Manifests in this repository are © ScoopInstaller with [MIT License](./LICENSE).
